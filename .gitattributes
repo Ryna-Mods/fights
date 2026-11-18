@@ -1,0 +1,2 @@
+# The fixture is the Ryna app's own output (ryna_agent, fights_data's test): kept byte for byte.
+test/fixtures/** -text
