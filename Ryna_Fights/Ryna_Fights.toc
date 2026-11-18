@@ -2,7 +2,7 @@
 ## Title: Fights by Ryna
 ## Notes: Your recent fights in Ryna's window: who struck first, who died when, damage done and taken over each fight, whom each enemy was attacking. From your combat log, as the Ryna app reads it. A mod of Ryna; /ryna fights.
 ## Author: Ryna contributors
-## Version: 0.5.0
+## Version: 0.5.1
 ## Dependencies: Ryna_Core
 ## X-Ryna-API: 2
 ## LoadOnDemand: 0
